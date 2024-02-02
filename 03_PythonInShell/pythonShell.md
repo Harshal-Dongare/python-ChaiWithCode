@@ -26,3 +26,5 @@
 >**Functions**
 - *Define and call functions*
     ![code](../03_PythonInShell/snippets/Screenshot%202024-02-02%20131621.jpg)
+
+---
