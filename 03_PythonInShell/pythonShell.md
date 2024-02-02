@@ -15,6 +15,7 @@
 - *Assign values to variables using the equal sign*
     ![code](../03_PythonInShell/snippets/Screenshot%202024-02-02%20131110.jpg)
 
+
 >**print statement**
 - *Use the print() function to display output*
     ![code](../03_PythonInShell/snippets/Screenshot%202024-02-02%20131236.jpg)
